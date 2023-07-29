@@ -1,4 +1,6 @@
 # ML_Assignment
+![image](https://github.com/MMuttalib1326/ML_Assignment/assets/64772188/ad829a80-f9b2-4374-83d9-ed63a2c6707b)
+
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 ![--](https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png)
 
